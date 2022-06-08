@@ -1,4 +1,4 @@
-### Olá, sou Fabio Lima, desenvolvedor Back-end
+### Olá sou Fabio Lima, desenvolvedor Back-end
 
 <div align="center">
   <a href="https://github.com/DevJottaerre">
